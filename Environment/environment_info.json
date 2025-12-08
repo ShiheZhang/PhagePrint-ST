@@ -1,0 +1,11 @@
+{
+  "analysis_date": "2025-11-20 21:28:45",
+  "python_version": "3.11.13 | packaged by conda-forge | (main, Jun  4 2025, 14:48:23) [GCC 13.3.0]",
+  "script_path": "/data/home/zhangshihe/1_pseudomonas/4_PA_20_human_0606/0_bac_virus/2_ST_analysis/5_diff_vOTU/6_3Forest4/f4.py",
+  "pandas": "2.3.2",
+  "numpy": "2.2.6",
+  "matplotlib": "3.10.6",
+  "seaborn": "0.13.2",
+  "scikit-learn": "1.7.2",
+  "joblib": "1.5.2"
+}
